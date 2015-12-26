@@ -211,7 +211,6 @@ function create_config( )
       "groupmanager",
       "help",
       "id",
-      "invite",
       "moderation",
       "plugins",
       "version"},
